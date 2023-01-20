@@ -5,6 +5,8 @@ The simple DB created by Qt (C++).
 ![](https://github.com/ynwqmv/Qt-The-Simple-Database/blob/main/img/app1.png)
 # 2 
 ![](https://github.com/ynwqmv/Qt-The-Simple-Database/blob/main/img/app2.png)
+# II
+![image](https://user-images.githubusercontent.com/112755279/213672385-4a0a8f79-84af-4d9d-baf3-44a08f1c0a56.png)
 
 ## Features
 * Simplicity
@@ -17,3 +19,4 @@ The simple DB created by Qt (C++).
 * `Edit` rows
 * `Remove` rows
 * `Export` rows
+
